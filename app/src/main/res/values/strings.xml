@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">DarkWeather</string>
+    <string name="clear">Clear</string>
+    <string name="no_precipitation">No precipitation</string>
+    <string name="mixed_precipitation">Mixed precipitation</string>
+    <string name="possible_very_light_precipitation">Possible light precipitation</string>
+    <string name="very_light_precipitation">Light precipitation</string>
+    <string name="possible_light_precipitation">Possible light precipitation</string>
+    <string name="light_precipitation">Light precipitation</string>
+    <string name="medium_precipitation">Precipitation</string>
+    <string name="heavy_precipitation">Heavy precipitation</string>
+    <string name="possible_very_light_rain">Possible drizzle</string>
+    <string name="very_light_rain">Drizzle</string>
+    <string name="possible_light_rain">Possible light rain</string>
+    <string name="light_rain">Light rain</string>
+    <string name="medium_rain">Rain</string>
+    <string name="heavy_rain">Heavy rain</string>
+    <string name="possible_very_light_sleet">Possible light sleet</string>
+    <string name="very_light_sleet">Light sleet</string>
+    <string name="possible_light_sleet">Possible light sleet</string>
+    <string name="light_sleet">Light sleet</string>
+    <string name="medium_sleet">Sleet</string>
+    <string name="heavy_sleet">Heavy sleet</string>
+    <string name="possible_very_light_snow">Possible flurries</string>
+    <string name="very_light_snow">Flurries</string>
+    <string name="possible_light_snow">Possible light snow</string>
+    <string name="light_snow">Light snow</string>
+    <string name="medium_snow">Snow</string>
+    <string name="heavy_snow">Heavy snow</string>
+    <string name="possible_thunderstorm">Possible thunderstorms</string>
+    <string name="thunderstorm">Thunderstorms</string>
+    <string name="light_wind">Breezy</string>
+    <string name="medium_wind">Windy</string>
+    <string name="heavy_wind">Dangerously windy</string>
+    <string name="low_humidity">Dry</string>
+    <string name="high_humidity">Humid</string>
+    <string name="fog">Foggy</string>
+    <string name="light_clouds">Partly cloudy</string>
+    <string name="medium_clouds">Mostly cloudy</string>
+    <string name="heavy_clouds">Overcast</string>
+    <string name="powered_by_google" translatable="false">powered by google</string>
+    <string name="current_location">Current location</string>
+    <string name="feels_like">feels like</string>
+    <string name="search">Search</string>
+
+    <string name="north">N</string>
+    <string name="west">W</string>
+    <string name="east">E</string>
+    <string name="south">S</string>
+    <string name="northwest">NW</string>
+    <string name="northeast">NE</string>
+    <string name="southeast">SE</string>
+    <string name="southwest">SW</string>
+    <string name="calm">Calm</string>
+
+    <string name="temperature">Temperature:</string>
+    <string name="wind">Wind:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="pressure">Pressure:</string>
+
+    <string name="Ms">m/s</string>
+    <string name="mmHg">mm Hg</string>
+</resources>

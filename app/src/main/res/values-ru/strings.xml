@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DarkWeather</string>
+    <string name="clear">Ясно</string>
+    <string name="no_precipitation">Без осадков</string>
+    <string name="mixed_precipitation">Смешанные осадки</string>
+    <string name="possible_very_light_precipitation">Возможны незначительные осадки</string>
+    <string name="very_light_precipitation">Незначительные осадки</string>
+    <string name="possible_light_precipitation">Возможны небольшие осадки</string>
+    <string name="light_precipitation">Небольшие осадки</string>
+    <string name="medium_precipitation">Осадки</string>
+    <string name="heavy_precipitation">Сильные осадки</string>
+    <string name="possible_very_light_rain">Возможен незначительный дождь</string>
+    <string name="very_light_rain">Незначительный дождь</string>
+    <string name="possible_light_rain">Возможен небольшой дождь</string>
+    <string name="light_rain">Небольшой дождь</string>
+    <string name="medium_rain">Дождь</string>
+    <string name="heavy_rain">Сильный дождь</string>
+    <string name="possible_very_light_sleet">Возможен незначительный град</string>
+    <string name="very_light_sleet">Незначительный град</string>
+    <string name="possible_light_sleet">Возможен небольшой град</string>
+    <string name="light_sleet">Небольшой град</string>
+    <string name="medium_sleet">Град</string>
+    <string name="heavy_sleet">Сильный град</string>
+    <string name="possible_very_light_snow">Возможен незначительный снег</string>
+    <string name="very_light_snow">Незначительный снег</string>
+    <string name="possible_light_snow">Возможен небольшой снег</string>
+    <string name="light_snow">Небольшой снег</string>
+    <string name="medium_snow">Снег</string>
+    <string name="heavy_snow">Снегопад</string>
+    <string name="possible_thunderstorm">Возможны грозы</string>
+    <string name="thunderstorm">Грозы</string>
+    <string name="light_wind">Слабый ветер</string>
+    <string name="medium_wind">Ветер</string>
+    <string name="heavy_wind">Сильный ветер</string>
+    <string name="low_humidity">Сухо</string>
+    <string name="high_humidity">Влажно</string>
+    <string name="fog">Туман</string>
+    <string name="light_clouds">Небольшая облачность</string>
+    <string name="medium_clouds">Облачно</string>
+    <string name="heavy_clouds">Сильная облачность</string>
+    <string name="feels_like">Ощущается как</string>
+    <string name="search">Поиск</string>
+    <string name="current_location">Текущее местоположение</string>
+
+    <string name="north">C</string>
+    <string name="west">З</string>
+    <string name="east">В</string>
+    <string name="south">Ю</string>
+    <string name="northwest">СЗ</string>
+    <string name="northeast">СВ</string>
+    <string name="southeast">ЮВ</string>
+    <string name="southwest">ЮЗ</string>
+    <string name="calm">Штиль</string>
+
+    <string name="temperature">Температура</string>
+    <string name="wind">Ветер</string>
+    <string name="humidity">Влажность</string>
+    <string name="pressure">Давление</string>
+
+    <string name="Ms">м/с</string>
+    <string name="mmHg">мм рт. cт.</string>
+
+</resources>
